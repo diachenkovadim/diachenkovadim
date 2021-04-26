@@ -1,4 +1,4 @@
-## Hello everyone
+## Hello everyone 🖐
 
 ### My name is Vadim. I`m a beginner Frontend developer
 
