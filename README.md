@@ -13,3 +13,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Va_dim_Diachenko)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/vadimdiachenko/)
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=007BB6)](mailto:vadimka.dyachenko@gmail.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diachenkovadim&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
