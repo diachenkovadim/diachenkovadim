@@ -1,4 +1,4 @@
-## Hello everyone
+## Hello everyone 🖐
 
 ### My name is Vadim. I`m a beginner Frontend developer
 
@@ -16,5 +16,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/vadimdiachenko/)
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=007BB6)](mailto:vadimka.dyachenko@gmail.com)
 
+<<<<<<< HEAD
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diachenkovadim)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diachenkovadim&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+=======
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diachenkovadim&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+>>>>>>> 4d2f814fa70fab6042e6c85556d39a2dc9a08865
