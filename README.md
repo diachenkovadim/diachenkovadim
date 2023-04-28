@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=JavaScript)
 ![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=NestJS)
 ![React Testing Library](https://img.shields.io/badge/RTL-000000?style=for-the-badge&logo=Jest)
-![Redux Toolkit](https://img.shields.io/badge/MUI-000000?style=for-the-badge&logo=Redux)
+![Redux Toolkit](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux)
 ![Apollo GraphQL](https://img.shields.io/badge/ApolloGraphQL-000000?style=for-the-badge&logo=GraphQl)
 ![MUI](https://img.shields.io/badge/MUI-000000?style=for-the-badge&logo=MUI)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5)
